@@ -43,3 +43,7 @@ Follow the original LLM-ESR usage instructions with the addition of clustering-s
 ## Reference
 
 If you use this extension, please cite the original LLM-ESR work along with our paper (to be added).
+
+## Poster
+<img width="936" height="1322" alt="image" src="https://github.com/user-attachments/assets/9da966dc-80da-4eb3-9a98-a8e7fbb82f89" />
+
